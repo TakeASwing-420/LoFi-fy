@@ -1,0 +1,14 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+torch
+torchvision
+flask
+Flask-Limiter
+numpy
+transformers
+jsonpickle
+beautifulsoup4
+matplotlib
+opencv-python
+scikit-learn
+git+https://github.com/openai/CLIP.git

@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+attached_assets/
+.venv/
+temp/
+__pycache__/
+model/__pycache__/
+lofi_dataset/
+temp.txt
