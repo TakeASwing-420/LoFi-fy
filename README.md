@@ -1,7 +1,6 @@
 # LoFi-fy
 
-Welcome to **LoFi-fy**!  
-A project by [TakeASwing-420](https://github.com/TakeASwing-420).
+Welcome to **LoFi-fy**!
 
 ## Overview
 
