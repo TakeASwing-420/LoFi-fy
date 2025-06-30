@@ -7,8 +7,11 @@ Welcome to **LoFi-fy**!
 LoFi-fy is a project designed to bring lofi vibes to your development or leisure environment. Whether you want chill beats in your workspace, a music-themed web application, or a customizable audio player, LoFi-fy has you covered.
 
 ## Features
-
-- Play curated lofi music streams or playlists
+- Detects *whether a video is lofifiable* using our own fine-tuned model over 2.5k+ dataset.
+- Generates music params such as (key, mode, tempo, chords(triads per measure 1), notes(per measure 8) etc. through a
+[open-source model](https://lofi.jacobzhang.de/) and produces track in the browser side using *Tone.js*.
+- We combine video and produced audio using *ffmpeg* alongwith multi-threading by creating separate worker.
+- Create LoFi BGM videos, Arrange into playlists and Play curated lofi music streams or playlists
 - Simple, clean, and user-friendly interface
 - Responsive design for desktop and mobile
 - Customizable themes (coming soon)
