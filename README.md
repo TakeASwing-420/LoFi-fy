@@ -42,7 +42,7 @@ LoFi-fy is a project designed to bring lofi vibes to your development or leisure
     ```
 
 4. **Open your browser**  
-   Go to [http://localhost:3000](http://localhost:3000) to use LoFi-fy.
+   Go to http://localhost:[port] to use LoFi-fy.
 
 ## Usage
 
