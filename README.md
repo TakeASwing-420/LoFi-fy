@@ -67,4 +67,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by [TakeASwing-420](https://github.com/TakeASwing-420)
+Made with Love by Team Rebase @HexaFalls 2025
