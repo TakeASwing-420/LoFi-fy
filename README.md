@@ -71,3 +71,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Made with Love by Team Rebase @HexaFalls 2025
+`PS :` *LoFi-fy 2.0 will be launched very soon with new enhanced features, Stay tuned!!
